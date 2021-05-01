@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(#d5ec02 0%, #13d3f5 100%);
+    text-align: center;
+}
+#para1yes {
+    float: left;
+}
+#para2yes {
+    float: right;
+}
